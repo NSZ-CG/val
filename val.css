@@ -73,6 +73,15 @@ body {
   top: 12px;
 }
 
+.mess{
+  position: absolute;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 28px;
+  text-align: center;
+  line-height: 25px;
+  color: #003049;
+}
+
 .text {
   position: absolute;
   font-family: 'Brush Script MT', cursive;
@@ -130,7 +139,7 @@ body {
   position: relative;
   transform: rotate(-45deg);
   width: 10px;
-  top: 50px;
+  bottom: 50px;
 }
 
 .one:before,
